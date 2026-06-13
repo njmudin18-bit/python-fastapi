@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Virtual Environment lokal Pak Najmudin
+venv/
+
+# Environment variables / rahasia API
+.env

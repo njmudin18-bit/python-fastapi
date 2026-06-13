@@ -1,0 +1,79 @@
+[
+    {
+        "id": "2",
+        "slug": "2-pin-sni-plug-m-001",
+        "insert_date": "2023-02-08 08:50:40",
+        "nama_produk": "2 PIN SNI Plug (M-001)",
+        "images": "2_Pin_Euro_Plug_M-001.webp",
+        "nominal_voltage": "2.5 A || 250 V~",
+        "available_types": "60227 IEC 52 / H03VVH2-F 2x0.5 - 0.75 mm² 300/300 V;60227 IEC 53 / H05VVH2-F 2x0.75 mm² 300/500 V;60227 IEC 52 / H03VV-F 2x0.5 mm² 300/300 V",
+        "aktivasi": "AKTIF",
+        "jenis_produk": "Tusuk Kontak SNI"
+    },
+    {
+        "id": "4",
+        "slug": "2-pin-sni-plug-m-002",
+        "insert_date": "2023-02-08 10:17:19",
+        "nama_produk": "2 PIN SNI Plug (M-002)",
+        "images": "2_Pin_Euro_Plug_M-002.webp",
+        "nominal_voltage": "16 A || 250 V~",
+        "available_types": "60227 IEC 53 / H05VVH2-F 2x0.75 mm² 300/500 V;60227 IEC 52 / H03VV-F 2x0.5 - 0.75 mm² 300/300 V;60227 IEC 53 / H05VV-F 2x0.75 mm² 300/500 V",
+        "aktivasi": "AKTIF",
+        "jenis_produk": "Tusuk Kontak SNI"
+    },
+    {
+        "id": "1",
+        "slug": "2-pin-sni-plug-m-003",
+        "insert_date": "2023-02-08 08:48:33",
+        "nama_produk": "2 PIN SNI Plug (M-003)",
+        "images": "2_Pin_Euro_Plug_M-003.webp",
+        "nominal_voltage": "2.5 A || 250 V~",
+        "available_types": "60227 IEC 52 / H03VVH2-F 2x0.5 - 0.75 mm² 300/300 V;60227 IEC 53 / H05VVH2-F 2x0.75 mm² 300/500 V",
+        "aktivasi": "AKTIF",
+        "jenis_produk": "Tusuk Kontak SNI"
+    },
+    {
+        "id": "5",
+        "slug": "2-pin-sni-plug-m-004",
+        "insert_date": "2023-02-08 10:19:12",
+        "nama_produk": "2 PIN SNI Plug (M-004)",
+        "images": "2_Pin_Euro_Plug_M-004.webp",
+        "nominal_voltage": "16 A || 250 V~",
+        "available_types": "60227 IEC 52 / H03VVH2-F 2x0.5 - 0.75 mm² 300/300 V;60227 IEC 53 / H05VVH2-F 2x0.75 mm² 300/500 V;60227 IEC 52 / H03VV-F 2x0.5 - 0.75 mm² 300/300 V;60227 IEC 53 / H05VV-F 2x0.75 mm² 300/500 V;60245 IEC 66 / H07RN-F 2x1.0 mm² 450/750 V",
+        "aktivasi": "AKTIF",
+        "jenis_produk": "Tusuk Kontak SNI"
+    },
+    {
+        "id": "8",
+        "slug": "2-pin-sni-plug-m-005",
+        "insert_date": "2023-02-08 12:44:33",
+        "nama_produk": "2 PIN SNI Plug (M-005)",
+        "images": "2_Pin_Euro_Plug_M-005.webp",
+        "nominal_voltage": "16 A || 250 V~",
+        "available_types": "60227 IEC 52 / H03VVH2-F 3x0.5 - 0.75 mm² 300/300 V;60227 IEC 53 / H05VV-F 3x0.75 - 1.00 mm² 300/500 V;60245 IEC 53 / H05RR-F 3x0.75 mm² 300/500 V;60245 IEC 57 / H05RN-F 3x0.75 - 1.00 mm² 300/500 V;60245 IEC 66 / H07RN-F 3x1.00 mm² 450/750 V;60245 IEC 89 / H03RT-H 3x0.75 mm² 300/300 V;60227 IEC 53 / H05VV-F 3x1.50 mm² 300/500 V",
+        "aktivasi": "AKTIF",
+        "jenis_produk": "Tusuk Kontak SNI"
+    },
+    {
+        "id": "6",
+        "slug": "2-pin-sni-plug-m-006a",
+        "insert_date": "2023-02-08 10:20:11",
+        "nama_produk": "2 PIN SNI Plug (M-006A)",
+        "images": "2_Pin_Euro_Plug_M-006A.webp",
+        "nominal_voltage": "16 A || 250 V~",
+        "available_types": "60227 IEC 52 / H03VVH2-F 3x0.5 - 0.75 mm² 300/300 V;60227 IEC 53 / H05VV-F 3x0.75 - 1.00 mm² 300/500 V;60227 IEC 53 / H05RR-F 3x0.75 - 1.00 mm² 300/500 V;60227 IEC 57 / H05RN-F 3x0.75 - 1.00 mm² 300/500 V;60245 IEC 66 / H07RN-F 3x1.0 mm² 450/750 V",
+        "aktivasi": "AKTIF",
+        "jenis_produk": "Tusuk Kontak SNI"
+    },
+    {
+        "id": "3",
+        "slug": "2-pin-sni-plug-m-008",
+        "insert_date": "2023-02-08 10:14:37",
+        "nama_produk": "2 PIN SNI Plug (M-008)",
+        "images": "2_PIN_SNI_Plug_M-008.png",
+        "nominal_voltage": "2.5 A || 250 V~",
+        "available_types": "60227 IEC 52 / H03VVVH2-F 2x0.5 - 0.75 mm² 300/300 V;60227 IEC 53 / H03VVVH2-F 2x0.75 mm² 300/500 V",
+        "aktivasi": "AKTIF",
+        "jenis_produk": "Tusuk Kontak SNI"
+    }
+]
